@@ -1,0 +1,17 @@
+# --- Python & Poetry -----------------------------
+__pycache__/
+*.py[cod]
+.venv/
+poetry.lock
+
+# --- Jupyter / Colab -----------------------------
+.ipynb_checkpoints/
+sample_data/
+
+# --- データ & 出力 -------------------------------
+data/
+outputs/
+
+# --- OS / IDE ------------------------------------
+.DS_Store
+Thumbs.db
